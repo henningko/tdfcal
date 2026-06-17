@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tdfcal//Tour de France 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2026
+X-WR-CALDESC:All 21 stages of the Tour de France 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tdf2026-stage03@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:[TdF] ⛰️ Granollers - Les Angles
+LOCATION:Les Angles
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-3
+DESCRIPTION:Climbs:\nCollada de Toses (9.3 km\, 6.5%) — Cat 1\nCol du Calvaire (14.9 km\, 4.1%) — Cat 2\nLes Angles (summit finish) — Cat 2\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-3
+END:VEVENT
+END:VCALENDAR

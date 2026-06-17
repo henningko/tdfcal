@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tdfcal//Tour de France 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2026
+X-WR-CALDESC:All 21 stages of the Tour de France 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tdf2026-stage19@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[TdF] ⛰️ Gap - Alpe d'Huez
+LOCATION:Alpe d'Huez
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-19
+DESCRIPTION:Climbs:\nCol Bayard — Cat 2\nCol du Noyer (7.3 km\, 8.2%) — Cat 1\nCol d'Ornon — Cat 2\nAlpe d'Huez (13.9 km\, 8%\, summit finish) — HC\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-19
+END:VEVENT
+END:VCALENDAR

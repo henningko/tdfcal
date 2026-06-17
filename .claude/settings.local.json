@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:franceletour.com)",
+      "WebFetch(domain:www.domestiquecycling.com)",
+      "Bash(python3 generate.py)"
+    ]
+  },
+  "enabledPlugins": {
+    "ponytail@ponytail": true
+  }
+}

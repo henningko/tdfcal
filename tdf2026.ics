@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tdfcal//Tour de France 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2026
+X-WR-CALDESC:All 21 stages of the Tour de France 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tdf2026-stage01@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:[TdF] ⏱️ Barcelona - Barcelona (TTT)
+LOCATION:Barcelona
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-1
+DESCRIPTION:Climbs:\nCôte de Montjuïc (1.1 km\, 5.1%) — Cat 4\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-1
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage02@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:[TdF] Tarragona - Barcelona
+LOCATION:Barcelona
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-2
+DESCRIPTION:Climbs:\nCôte du Château de Montjuïc (1.6 km\, 9.3%) — Cat 3\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-2
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage03@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:[TdF] ⛰️ Granollers - Les Angles
+LOCATION:Les Angles
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-3
+DESCRIPTION:Climbs:\nCollada de Toses (9.3 km\, 6.5%) — Cat 1\nCol du Calvaire (14.9 km\, 4.1%) — Cat 2\nLes Angles (summit finish) — Cat 2\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-3
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage04@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:[TdF] Carcassonne - Foix
+LOCATION:Foix
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-4
+DESCRIPTION:Climbs:\nCol de Montségur (6.9 km\, 6.6%) — Cat 2\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-4
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage05@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:[TdF] Lannemezan - Pau
+LOCATION:Pau
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-5
+DESCRIPTION:No categorised climbs\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-5
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage06@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:[TdF] ⛰️ Pau - Gavarnie-Gèdre
+LOCATION:Gavarnie-Gèdre
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-6
+DESCRIPTION:Climbs:\nCol d'Aspin — Cat 1\nCol du Tourmalet (17 km\, 7.3%) — HC\nGavarnie-Gèdre (18.7 km\, 4%\, summit finish) — Cat 2\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-6
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage07@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:[TdF] Hagetmau - Bordeaux
+LOCATION:Bordeaux
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-7
+DESCRIPTION:No categorised climbs\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-7
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage08@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:[TdF] Périgueux - Bergerac
+LOCATION:Bergerac
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-8
+DESCRIPTION:No categorised climbs\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-8
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage09@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:[TdF] Malemort - Ussel
+LOCATION:Ussel
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-9
+DESCRIPTION:Climbs:\nSuc au May (3.8 km\, 7.7%) — Cat 2\nCôte des Gardes (2.2 km\, 4.8%) — Cat 3\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-9
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage10@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:[TdF] ⛰️ Aurillac - Le Lioran
+LOCATION:Le Lioran
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-10
+DESCRIPTION:Climbs:\nCol de Pertus (4.4 km\, 8.5%) — Cat 2\nPuy Mary / Pas de Peyrol (7.8 km\, 6%) — Cat 1\nLe Lioran (summit finish) — Cat 2\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-10
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage11@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:[TdF] Vichy - Nevers
+LOCATION:Nevers
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-11
+DESCRIPTION:Climbs:\nCôte de Billy-Chévannes (1.5 km\, 6%) — Cat 4\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-11
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage12@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:[TdF] Magny-Cours - Chalon-sur-Saône
+LOCATION:Chalon-sur-Saône
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-12
+DESCRIPTION:Climbs:\nCôte de Montagny-lès-Buxy (2.6 km\, 3.9%) — Cat 4\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-12
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage13@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:[TdF] Dole - Belfort
+LOCATION:Belfort
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-13
+DESCRIPTION:Climbs:\nBallon d'Alsace (8.7 km\, 6.9%) — Cat 1\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-13
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage14@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:[TdF] ⛰️ Mulhouse - Le Markstein Fellering
+LOCATION:Le Markstein Fellering
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-14
+DESCRIPTION:Climbs:\nGrand Ballon (21.5 km) — Cat 1\nCol du Haag (11.2 km\, 7.3%) — Cat 1\nLe Markstein (summit finish) — Cat 2\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-14
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage15@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:[TdF] ⛰️ Champagnole - Plateau de Solaison
+LOCATION:Plateau de Solaison
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-15
+DESCRIPTION:Climbs:\nCol de la Croisette (7.6 km\, 8.8%) — Cat 1\nPlateau de Solaison (11.6 km\, 8.9%\, summit finish) — HC\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-15
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage16@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:[TdF] ⏱️ Évian-les-Bains - Thonon-les-Bains (ITT)
+LOCATION:Thonon-les-Bains
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-16
+DESCRIPTION:Climbs:\nCôte de Larringes (9.4 km\, 4.3%) — Cat 3\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-16
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage17@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[TdF] Chambéry - Voiron
+LOCATION:Voiron
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-17
+DESCRIPTION:Climbs:\nCol des Prés — Cat 2\nCol de Couz — Cat 3\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-17
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage18@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:[TdF] ⛰️ Voiron - Orcières-Merlette
+LOCATION:Orcières-Merlette
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-18
+DESCRIPTION:Climbs:\nMonteynard (9.7 km\, 5%) — Cat 2\nOrcières-Merlette (7.1 km\, 6.7%\, summit finish) — Cat 1\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-18
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage19@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[TdF] ⛰️ Gap - Alpe d'Huez
+LOCATION:Alpe d'Huez
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-19
+DESCRIPTION:Climbs:\nCol Bayard — Cat 2\nCol du Noyer (7.3 km\, 8.2%) — Cat 1\nCol d'Ornon — Cat 2\nAlpe d'Huez (13.9 km\, 8%\, summit finish) — HC\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-19
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage20@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:[TdF] ⛰️ 👑 Le Bourg-d'Oisans - Alpe d'Huez
+LOCATION:Alpe d'Huez
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-20
+DESCRIPTION:Climbs:\nCol de la Croix de Fer (24 km\, 5.2%) — HC\nCol du Télégraphe — Cat 1\nCol du Galibier (17 km\, 6.8%\, 2642 m) — HC\nCol de Sarenne (12.9 km\, 7.3%) — Cat 1\nAlpe d'Huez (summit finish) — HC\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-20
+END:VEVENT
+BEGIN:VEVENT
+UID:tdf2026-stage21@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:[TdF] Thoiry - Paris (Champs-Élysées)
+LOCATION:Paris (Champs-Élysées)
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-21
+DESCRIPTION:Climbs:\nMontmartre (×3 ascents) — Cat 4\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-21
+END:VEVENT
+END:VCALENDAR

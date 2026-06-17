@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tdfcal//Tour de France 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2026
+X-WR-CALDESC:All 21 stages of the Tour de France 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tdf2026-stage02@tdfcal
+DTSTAMP:20260617T000000Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:[TdF] Tarragona - Barcelona
+LOCATION:Barcelona
+URL:https://www.procyclingstats.com/race/tour-de-france/2026/stage-2
+DESCRIPTION:Climbs:\nCôte du Château de Montjuïc (1.6 km\, 9.3%) — Cat 3\n\nhttps://www.procyclingstats.com/race/tour-de-france/2026/stage-2
+END:VEVENT
+END:VCALENDAR
